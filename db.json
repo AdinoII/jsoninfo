@@ -1,6 +1,7 @@
 {
       "posts" : [
       {
+        "id"       : 1,
         "customer" : "Phan Huỳnh Hoàng",
         "products" : "Mô hình Kratos – God of War 4",
         "image"    : "https://cdn.pancake.vn/files/a5/66/bb/60/c843bda93c1dd371c5d6df0a4938d84f207e9a7045786a6da43f968c.jpg"
