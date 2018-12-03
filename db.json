@@ -109,12 +109,6 @@
         "customer" : "Trần Tuấn Anh",
         "products" : "Smoke cực ngầu",
         "image"    : "https://cdn.pancake.vn/files/19/f5/2d/d5/70b6dcd7186f0391431e743443e3cbc9e8dc9cac401900e08e90b66d.jpg"
-      },
-      {
-        "id"       : 10,
-        "customer" : "Nguyễn Thành Nam",
-        "products" : "Smoke cực ngầu",
-        "image"    : "https://cdn.pancake.vn/files/19/f5/2d/d5/70b6dcd7186f0391431e743443e3cbc9e8dc9cac401900e08e90b66d.jpg"
       }
       ]
 }
